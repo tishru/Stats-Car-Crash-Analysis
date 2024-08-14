@@ -6,4 +6,6 @@ Implemented applied advanced hypothesis testing techniques like proportional tes
 
 Utilized R language to create visually compelling histograms and density plots, offering a clear representation of the data distribution and supporting in the identification of key patterns and trends
 
-For a visual summary of the report, watch our video on Youtube (https://www.youtube.com/watch?v=MyI6GHjke-A)
+For a visual summary of the report, watch our video on Youtube 
+
+https://www.youtube.com/watch?v=MyI6GHjke-A
